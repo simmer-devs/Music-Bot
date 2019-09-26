@@ -5,4 +5,5 @@ To Do:
 1. Skip Command for DJ Rank (Doable)
 2. Clear Command for DJ Rank (Doable)
 3. Queue visualizer with song information (Maybe)
-4. Figure out why the last 10-15 seconds of songs skip
+4. Handle YouTube Playlists (Maybe)
+5. Figure out why the last 10-15 seconds of songs skip
